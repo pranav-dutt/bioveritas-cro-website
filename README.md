@@ -65,3 +65,4 @@ Settings → Pages → Deploy from branch → `main` / `root`.
 
 - A couple of files from the original export were left out of this repo since they aren't part of the site itself: `app.jsx` / `tweaks-panel.jsx` (a live design-tweaking panel from the build process, not wired into any page), QA screenshots, a tool-generated `.thumbnail`, and an `uploads/` folder of reference material (client brief, feedback, a strategic-rationale deck, duplicate logo files). Happy to add any of these back in if you want them versioned too.
 - The homepage hero's video background is stubbed out — drop a clip at `assets/hero-bg.mp4` and uncomment the `<source>` in `index.html` to enable it.
+# bioveritas-cro-website
