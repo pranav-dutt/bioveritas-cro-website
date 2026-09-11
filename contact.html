@@ -5,10 +5,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Contact — BioVeritas CRO</title>
   <meta name="description" content="Speak to our scientific team. BioVeritas CRO is based in Noida, India and works with global sponsors across pharma, biotech, devices, and consumer health." />
+  <link rel="canonical" href="https://www.bioveritascro.com/contact.html" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="theme-color" content="#0b2733" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="BioVeritas CRO" />
+  <meta property="og:title" content="Contact — BioVeritas CRO" />
+  <meta property="og:description" content="Speak to our scientific team. BioVeritas CRO is based in Noida, India and works with global sponsors across pharma, biotech, devices, and consumer health." />
+  <meta property="og:url" content="https://www.bioveritascro.com/contact.html" />
+  <meta property="og:image" content="https://www.bioveritascro.com/assets/bioveritas-logo.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Contact — BioVeritas CRO" />
+  <meta name="twitter:description" content="Speak to our scientific team. BioVeritas CRO is based in Noida, India and works with global sponsors across pharma, biotech, devices, and consumer health." />
+  <meta name="twitter:image" content="https://www.bioveritascro.com/assets/bioveritas-logo.png" />
+  <link rel="icon" href="assets/bioveritas-logo.png" />
+  <link rel="apple-touch-icon" href="assets/bioveritas-logo.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"BioVeritas CRO Private Limited","alternateName":"BioVeritas CRO","url":"https://www.bioveritascro.com/","logo":"https://www.bioveritascro.com/assets/bioveritas-logo.png","email":"bioveritascro@gmail.com","telephone":"+91-99106-63681","foundingDate":"2025","address":{"@type":"PostalAddress","streetAddress":"Ground Floor, B-14, Sector-132","addressLocality":"Noida","addressRegion":"Uttar Pradesh","addressCountry":"IN"},"description":"Full-service contract research organization supporting non-clinical, bioanalytical and clinical research, regulatory readiness and new product development."}</script>
 </head>
 <body data-page="contact">
 
@@ -50,7 +66,7 @@
             <span class="eyebrow">Brief our team</span>
             <h2 style="margin-top:18px;margin-bottom:32px;">Send us a project brief.</h2>
 
-            <form class="form" onsubmit="event.preventDefault(); alert('Thanks — we received your brief. A scientific lead will reply within two working days.');">
+            <form class="form" data-thanks="enquiry" novalidate>
               <div class="row">
                 <div class="group">
                   <label for="name">Your name</label>
@@ -86,6 +102,11 @@
                     <option>Clinical research (Phase I–IV)</option>
                     <option>Regulatory &amp; strategic consulting</option>
                     <option>New product development</option>
+                    <option>Analytical &amp; testing services</option>
+                    <option>Data analytics &amp; digital health</option>
+                    <option>Medical devices</option>
+                    <option>Manufacturing, licensing &amp; technology transfer</option>
+                    <option>Translational research</option>
                     <option>Other / not sure</option>
                   </select>
                 </div>
@@ -110,7 +131,7 @@
               </div>
 
               <div class="submit">
-                <div class="note">By submitting, you agree to our <a href="#" style="color:var(--accent);">privacy policy</a>. We treat all sponsor information as confidential.</div>
+                <div class="note">By submitting, you agree to our <a href="privacy.html" style="color:var(--accent);">privacy policy</a>. We treat all sponsor information as confidential.</div>
                 <button type="submit" class="btn btn-primary">Send brief
                   <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
                 </button>
@@ -162,33 +183,20 @@
               </div>
             </div>
 
-            <!-- Map placeholder -->
-            <div class="map-ph" aria-label="Map of BioVeritas office, Sector-132, Noida">
-              <svg class="grid-svg" viewBox="0 0 400 300" preserveAspectRatio="none" aria-hidden="true">
-                <defs>
-                  <pattern id="mapGrid" width="40" height="40" patternUnits="userSpaceOnUse">
-                    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0e2a47" stroke-opacity="0.12" stroke-width="1"/>
-                  </pattern>
-                </defs>
-                <rect width="400" height="300" fill="url(#mapGrid)"/>
-                <!-- Suggestive road lines -->
-                <path d="M0 130 L400 130" stroke="#0e2a47" stroke-opacity="0.18" stroke-width="6"/>
-                <path d="M0 200 L400 220" stroke="#0e2a47" stroke-opacity="0.14" stroke-width="3"/>
-                <path d="M150 0 L170 300" stroke="#0e2a47" stroke-opacity="0.16" stroke-width="4"/>
-                <path d="M260 0 L280 300" stroke="#0e2a47" stroke-opacity="0.10" stroke-width="2"/>
-                <!-- block hints -->
-                <rect x="40" y="160" width="60" height="35" fill="#0e2a47" fill-opacity="0.05"/>
-                <rect x="200" y="20" width="40" height="80" fill="#0e2a47" fill-opacity="0.06"/>
-                <rect x="300" y="170" width="70" height="40" fill="#0e2a47" fill-opacity="0.05"/>
-              </svg>
-              <div class="pin"><div class="pulse"></div></div>
-              <div class="pin-label">B-14, Sector-132, Noida</div>
+            <!-- Google Maps embed -->
+            <div class="map-ph" style="padding:0;overflow:hidden;">
+              <iframe title="Map of BioVeritas CRO, B-14, Sector-132, Noida" src="https://www.google.com/maps?q=B-14%20Sector%20132%20Noida%20Uttar%20Pradesh&output=embed" width="100%" height="300" style="border:0;display:block;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
             </div>
 
             <a class="btn btn-ghost" style="margin-top:18px;width:100%;justify-content:center;" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&amp;query=B-14+Sector+132+Noida+Uttar+Pradesh">
               Open in Google Maps
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
             </a>
+
+            <div style="display:flex;gap:10px;margin-top:10px;flex-wrap:wrap;">
+              <a class="btn btn-primary" style="flex:1 1 160px;justify-content:center;" href="request-proposal.html">Request a proposal<svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></a>
+              <a class="btn btn-ghost" style="flex:1 1 160px;justify-content:center;" target="_blank" rel="noopener" href="https://wa.me/919910663681?text=Hi%20BioVeritas%20—%20I%27d%20like%20to%20discuss%20a%20study.">WhatsApp us</a>
+            </div>
           </aside>
 
         </div>
@@ -237,6 +245,14 @@
 
   <div id="site-footer"></div>
 
+
+  <a class="fab-wa" href="https://wa.me/919910663681?text=Hi%20BioVeritas%20—%20I%27d%20like%20to%20discuss%20a%20study." target="_blank" rel="noopener" aria-label="Chat with BioVeritas on WhatsApp">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.5 15.2L2 22l4.9-1.4A10 10 0 1 0 12 2zm0 2a8 8 0 0 1 0 16 8 8 0 0 1-4.1-1.1l-.5-.3-2.5.7.7-2.4-.3-.5A8 8 0 0 1 12 4zm-3.3 4.3c-.2 0-.5.1-.7.3-.3.3-.8.9-.8 1.8 0 1 .7 2 .8 2.2.1.2 1.4 2.3 3.5 3.1 1.7.7 2.1.6 2.5.5.5 0 1.4-.6 1.6-1.1.2-.6.2-1 .1-1.1 0-.1-.2-.2-.4-.3l-1.4-.7c-.2-.1-.4-.1-.5.1l-.6.7c-.1.2-.3.2-.5.1-.2-.1-.9-.3-1.7-1-.6-.6-1-1.2-1.1-1.4-.1-.2 0-.3.1-.4l.4-.5c.1-.2.1-.3 0-.5l-.6-1.4c-.1-.2-.2-.2-.4-.2h-.3z"/></svg>
+    <span>WhatsApp us</span>
+  </a>
+
   <script src="chrome.js"></script>
+  <script src="analytics.js"></script>
+  <script src="flow.js"></script>
 </body>
 </html>
