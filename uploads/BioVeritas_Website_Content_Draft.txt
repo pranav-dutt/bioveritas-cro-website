@@ -1,0 +1,490 @@
+BioVeritas CRO
+In Vitro & Cell-Based Studies
+Website Content Draft
+Hero Section
+In Vitro & Cell-Based Studies
+Generate high-quality in vitro evidence to accelerate drug discovery and preclinical decision-making. BioVeritas designs and manages scientifically robust cell-based and biochemical studies that evaluate target engagement, pharmacological activity, mechanism of action, and early safety, delivering reliable data to support candidate selection and regulatory development.
+Capability Tags: 
+Cell-Based Assays | Biochemical Assays | Primary Cells & Cell Lines | 2D & 3D Models | Mechanism of Action | Cytotoxicity | Biomarker Analysis | GLP-Aligned Studies
+Overview
+In vitro studies form the scientific foundation of successful drug development. By evaluating a compound's biological activity before animal studies, researchers can identify promising candidates, eliminate ineffective molecules, and better understand therapeutic mechanisms while reducing development risk.
+At BioVeritas, we design fit-for-purpose in vitro studies tailored to your research objectives rather than applying a standardized testing approach. Our scientific teams select appropriate biological models, validated assay platforms, and relevant endpoints to generate reproducible data that supports informed go/no-go decisions throughout discovery and preclinical development.
+Whether supporting lead optimization, mechanism-of-action studies, safety assessment, or translational research, our focus remains on producing high-quality scientific evidence with clear biological interpretation and regulatory-ready documentation.
+Study Highlights
+• Study Design: Protocols developed around your target biology, molecule type, therapeutic indication, and project objectives.
+• Relevant Biological Models: Selection of appropriate primary cells, immortalized cell lines, or advanced 3D culture systems based on study requirements.
+• Reliable Scientific Data: Studies conducted using validated methodologies, appropriate controls, and reproducible experimental workflows.
+• Actionable Interpretation: Comprehensive data analysis with scientific interpretation to support research and development decisions.
+What We Deliver
+Receptor Binding Assays
+Evaluate target affinity, selectivity, and ligand–receptor interactions using validated binding platforms. Typical outputs include Ki, Kd, IC50/EC50 and selectivity profiling to support target validation and lead optimisation.
+Cytotoxicity & Cell Viability
+Assess compound-induced effects on cellular health using MTT, Resazurin, ATP, LDH and related assays to establish therapeutic windows and early safety profiles.
+Functional & Mechanism of Action Studies
+Characterise biological pathways using reporter gene assays, biomarker analysis, cytokine profiling and functional cell-based assays to understand how a candidate produces its pharmacological effect.
+2D & 3D Cell Models
+Employ monolayer cultures, spheroids and co-culture models to generate physiologically relevant efficacy and toxicity data.
+Enzyme & Biochemical Assays
+Measure enzyme inhibition, activation and kinetics to support hit validation, SAR studies and off-target profiling.
+Standards & Methods
+Every study follows predefined protocols, qualified methods and appropriate experimental controls to ensure reproducibility and scientific integrity. Where applicable, studies are aligned with internationally recognised guidance and sponsor requirements.
+
+[[IMG:rId6]]
+
+How an Engagement Runs
+1. Scientific Consultation
+Understand objectives, target biology, timelines and regulatory expectations.
+2. Study Design
+Develop customised protocols, endpoints and controls.
+3. Experimental Execution
+Perform studies using validated procedures under quality-managed workflows.
+4. Data Analysis
+Conduct statistical analysis and scientific interpretation.
+5. Reporting
+Deliver sponsor-ready reports with methodology, results and raw data.
+Quality & Data Integrity
+Reliable scientific decisions require robust quality systems. BioVeritas emphasizes study planning, documentation, traceability and scientific review throughout the study lifecycle.
+• Comprehensive study documentation
+• Validated workflows
+• Appropriate controls
+• Independent scientific review
+• Complete traceability
+• Confidential handling of sponsor information
+• ALCOA+ data integrity principles (where applicable)
+Call to Action
+Advance your discovery program with confidence.
+Whether you require target validation, mechanistic studies, cytotoxicity assessment or customised in vitro biology solutions, our scientific team will work with you to design a study aligned with your research objectives.
+
+Buttons: Discuss Your Study | Request a Proposal
+BioVeritas CRO - In Vivo Pharmacology & Efficacy
+
+Hero Section
+In Vivo Pharmacology & Efficacy
+
+In vivo pharmacology studies establish whether a therapeutic candidate demonstrates meaningful biological activity in a living system. Using disease-relevant animal models, these studies evaluate efficacy, characterize pharmacokinetic–pharmacodynamic (PK/PD) relationships, and generate the evidence needed to support preclinical decision-making and candidate progression.
+Capability Highlights
+• Disease-Relevant Efficacy Models
+• PK/PD Studies
+• Proof-of-Concept
+• Rodent & Non-Rodent Models
+• IAEC & CPCSEA Compliant
+Study Snapshot
+Model Areas: Oncology • Metabolic • CNS • Inflammation • Dermatology
+Species: Rodent • Non-Rodent
+Study Designs: Efficacy • PK/PD • Proof-of-Concept
+Compliance: IAEC Approved • CPCSEA Registered • GLP-aligned
+Why In Vivo Studies Matter
+Promising in vitro activity is only the beginning of preclinical development. In vivo pharmacology determines whether that biological effect translates into a living system, where absorption, distribution, metabolism, immune responses, and tissue interactions collectively influence therapeutic performance. Well-designed in vivo studies provide the evidence required to evaluate efficacy, establish exposure–response relationships, optimize dose selection, and support progression into toxicology and clinical development.
+
+At BioVeritas, studies are designed around clearly defined scientific questions rather than standardized templates. Every protocol integrates disease relevance, appropriate controls, meaningful endpoints, and statistical planning to generate reliable data that supports informed development decisions.
+
+What We Deliver
+Efficacy & Proof-of-Concept
+Disease-relevant efficacy studies designed to demonstrate therapeutic activity and support candidate progression across oncology, metabolic disorders, CNS, inflammation, dermatology, and immunology.
+PK/PD & Exposure Assessment
+Studies integrating pharmacokinetic and pharmacodynamic endpoints to characterize exposure–response relationships, optimize dosing strategies, and strengthen translational confidence.
+Biomarker & Endpoint Evaluation
+Assessment using histopathology, imaging, circulating biomarkers, molecular biomarkers, behavioural assessments, and functional endpoints where appropriate.
+Custom Model Development
+Development or adaptation of disease models tailored to sponsor-specific biological questions when standard models are not sufficient.
+Standards & Methods
+Element
+Standard
+Purpose
+Animal Ethics
+IAEC & CPCSEA
+Independent ethical approval and regulatory compliance before study initiation
+Study Conduct
+GLP-aligned Quality Systems
+Standardized documentation, traceability, SOP-driven execution and quality oversight
+Experimental Design
+ARRIVE 2.0 Guidelines
+Transparent reporting, randomization, blinding and reproducibility
+Translational Planning
+ICH M3(R2)-informed
+Alignment of nonclinical studies with overall drug development strategy
+Data Integrity
+ALCOA+ Principles
+Complete, attributable, accurate and audit-ready study documentation
+
+How an Engagement Runs
+1. Scientific consultation and feasibility assessment
+2. Study design and protocol development
+3. Study execution under quality-managed procedures
+4. Data analysis, PK/PD interpretation and scientific review
+5. Comprehensive sponsor-ready reporting
+
+BioVeritas CRO- Bioanalytical & Biomarker Testing
+Reliable Quantitative and Qualitative Data for Every Stage of Drug Development
+Bioanalytical testing provides the quantitative evidence needed to understand how a therapeutic candidate behaves in biological systems. From pharmacokinetic studies and toxicology programs to biomarker evaluation and clinical development, accurate analytical data supports informed scientific and regulatory decision-making.
+Capability Highlights
+✔ Bioanalytical Method Development
+✔ Method Validation
+✔ GLP-Compliant Sample Analysis
+✔ Biomarker Testing
+✔ LC–MS/MS & Ligand Binding Assays
+✔ Regulatory Documentation
+Study Snapshot
+
+Platforms
+LC–MS/MS • Ligand Binding Assays (ELISA)
+Guidelines
+ICH M10 • ICH Q2(R1) • GLP
+Matrices
+Plasma • Serum • Whole Blood • Urine • Tissue
+Applications
+PK • Toxicology • Biomarkers • Clinical Studies
+
+Why Bioanalytical Testing Matters
+Every pharmacokinetic profile, biomarker assessment, and toxicology study depends on reliable analytical methods. Well-developed assays generate accurate and reproducible data, providing the confidence needed for scientific interpretation and regulatory submissions.
+What We Deliver
+Instead of writing long paragraphs, I would convert this section into service cards.
+Bioanalytical Method Development
+Development and optimization of LC–MS/MS and ligand-binding assays for small molecules, biologics, peptides, and biomarkers.
+Bioanalytical Method Validation
+Validation of analytical methods according to ICH M10 and applicable regulatory guidance, including accuracy, precision, selectivity, recovery, stability, and LLOQ assessment.
+Regulated Sample Analysis
+Quantitative analysis of study samples using validated methods with complete analytical documentation and quality-controlled workflows.
+Biomarker Testing
+Fit-for-purpose biomarker assays supporting PK/PD studies, translational research, mechanism-of-action studies, and clinical endpoint evaluation.
+Stability Assessment
+Assessment of analyte stability under storage and handling conditions, including freeze–thaw, bench-top, processed sample, and long-term stability studies.
+Data Analysis & Reporting
+Comprehensive analytical reports with validated results, quality control summaries, calibration performance, and sponsor-ready documentation.
+Standards & Methods
+Reliable bioanalytical data require validated analytical procedures, standardized laboratory practices, and comprehensive documentation. BioVeritas follows internationally recognized regulatory guidance to ensure analytical methods are scientifically robust, reproducible, and appropriate for their intended use.
+Element
+Standard
+Purpose
+Bioanalytical Method Validation
+ICH M10
+Validation of analytical methods for regulated bioanalysis
+Analytical Procedure Validation
+ICH Q2(R1)
+Evaluation of analytical method performance characteristics
+Laboratory Quality Systems
+GLP
+Quality management, documentation, traceability, and study conduct
+Biomarker Assays
+Fit-for-Purpose Validation
+Qualification based on intended scientific application
+Stability Evaluation
+ICH Q1 Principles (where applicable)
+Assessment of analyte stability during study conduct
+
+BioVeritas CRO - Pharmacokinetics (PK) & ADME
+Understanding How a Molecule Behaves in the Body
+Pharmacokinetic (PK) and ADME studies evaluate how a therapeutic candidate is absorbed, distributed, metabolized, and eliminated after administration. These studies provide the quantitative evidence needed to understand systemic exposure, optimize dosing strategies, assess drug–drug interaction potential, and support safe progression from preclinical research to clinical development.
+Capability Highlights
+✔ ADME Profiling
+✔ Pharmacokinetic (PK) Studies
+✔ CYP450 Interaction Assessment
+✔ Drug–Drug Interaction (DDI) Evaluation
+✔ Plasma Protein Binding
+✔ Tissue Distribution
+
+Study Snapshot
+
+Study Areas
+ADME • DMPK • PK
+Interaction Studies
+CYP450 Inhibition • CYP450 Induction • DDI Assessment
+Distribution Studies
+Plasma Protein Binding • Tissue Distribution
+Applications
+Lead Optimization • Dose Selection • IND-Enabling Studies
+
+What We Deliver
+ADME Profiling
+Comprehensive evaluation of absorption, distribution, metabolism, and excretion to understand how a therapeutic candidate behaves across relevant biological systems.
+Pharmacokinetic Studies
+Characterization of key pharmacokinetic parameters, including exposure, clearance, volume of distribution, and half-life, to support dose optimization and translational development.
+CYP450 Interaction Assessment
+Assessment of CYP450 inhibition and induction to identify potential metabolic interactions and support early evaluation of drug–drug interaction risk.
+Drug–Drug Interaction (DDI) Evaluation
+Investigation of interaction potential using in vitro and in vivo approaches to support clinical study planning and regulatory expectations.
+Plasma Protein Binding
+Determination of the unbound drug fraction using established analytical techniques to better understand pharmacologically active exposure.
+Tissue Distribution
+Evaluation of drug distribution across tissues and organs to characterize target-site exposure and support efficacy and safety interpretation.
+
+Standards & Methods
+Reliable PK and ADME data depend on scientifically validated analytical methods and appropriate pharmacokinetic modelling. BioVeritas applies internationally accepted approaches to ensure results are reproducible, interpretable, and suitable for development decisions.
+Study / Activity
+Method / Guideline
+Typical Output
+Pharmacokinetic Analysis
+Non-Compartmental Analysis (NCA)
+Cmax, Tmax, AUC, t½, Clearance, Volume of Distribution
+CYP450 Inhibition
+FDA & EMA DDI Guidance
+IC₅₀, Ki
+CYP450 Induction
+FDA & EMA DDI Guidance
+Fold Induction
+Plasma Protein Binding
+Equilibrium Dialysis / Ultrafiltration
+Free Fraction (%)
+Tissue Distribution
+LC–MS/MS-Based Quantification
+Tissue Concentration Profiles
+
+UI/UX Recommendation
+This page lends itself well to a simple visual that explains ADME. Consider placing a horizontal infographic immediately below the hero section with five connected icons:
+Administration → Absorption → Distribution → Metabolism → Excretion
+Each icon can include a one-line explanation, for example:
+Absorption: How much drug enters the bloodstream. 
+Distribution: Where the drug travels in the body. 
+Metabolism: How the drug is chemically transformed. 
+Excretion: How the drug is eliminated. 
+This gives visitors an immediate understanding of ADME before they scroll further.
+
+Discovery & NPD Screening
+Accelerating Candidate Selection with Early Scientific Evidence
+Discovery and early-stage screening are critical to identifying candidates with the greatest potential for successful development. Through scientifically designed screening strategies, hit-to-lead evaluation, and early product characterization, BioVeritas helps sponsors generate the evidence needed to prioritize promising molecules, eliminate unsuitable candidates, and reduce development risk before significant investment.
+Capability Highlights
+✔ High-Throughput Screening (HTS)
+✔ Hit-to-Lead Evaluation
+✔ Candidate Prioritization
+✔ Preformulation Studies
+✔ Prototype Development
+✔ Comparative Product Analysis
+Study Snapshot
+
+Screening
+High-Throughput • Focused Screening • Secondary Assays
+Discovery Support
+Hit Identification • Hit-to-Lead Optimization
+Product Development
+Preformulation • Prototype Evaluation
+Applications
+Drug Discovery • Biologics • Nutraceuticals • Medical Products
+
+From Discovery to Development
+Discovery is not simply about identifying active molecules—it's about understanding which candidates have the greatest potential to become successful products. Our screening strategies combine biological activity, developability, formulation considerations, and comparative performance to support confident candidate selection and efficient progression into formal development.
+
+What We Deliver
+High-Throughput & Focused Screening
+Primary and secondary screening assays designed to identify biologically active compounds, evaluate target engagement, and prioritize candidates for further investigation.
+Hit-to-Lead Evaluation
+Scientific characterization of screening hits through confirmatory testing, potency assessment, selectivity profiling, and early developability evaluation to support lead candidate selection.
+Candidate Prioritization
+Comparative evaluation of multiple candidates using efficacy, physicochemical properties, safety indicators, and development potential to support evidence-based go/no-go decisions.
+Preformulation Assessment
+Early characterization of solubility, stability, compatibility, dissolution behavior, and other critical physicochemical properties that influence formulation strategy and product performance.
+Prototype Development
+Preparation and preliminary evaluation of prototype formulations to assess feasibility, product performance, and optimization opportunities before formal formulation development.
+Comparative Product Analysis
+Head-to-head evaluation against reference products, innovator brands, or competitor formulations to benchmark performance and identify opportunities for product differentiation.
+UI/UX Recommendation
+This page should feel dynamic and decision-focused, reflecting the discovery process. Rather than displaying six static cards, consider using a horizontal "Discovery Pipeline" with connected stages:
+Target Identification → Screening → Hit Identification → Hit-to-Lead → Prototype Development → Development Candidate
+Each stage can be clickable or expandable to reveal a short description of the corresponding BioVeritas service. This visual approach reinforces that BioVeritas is supporting the sponsor throughout the discovery journey, rather than offering isolated laboratory tests.
+Clinical Research (Phase I–IV)
+Advancing Clinical Development with Scientific, Operational, and Regulatory Excellence
+Clinical development transforms promising therapeutic candidates into evidence-based medicines through carefully designed human studies. BioVeritas supports sponsors across the clinical development lifecycle by integrating scientific strategy, operational coordination, medical writing, and regulatory expertise to ensure studies are conducted efficiently, ethically, and in accordance with global Good Clinical Practice (ICH-GCP) standards.
+Capability Highlights
+✔ Phase I–IV Clinical Research
+✔ First-in-Human (FIH) Studies
+✔ Bioavailability & Bioequivalence (BA/BE)
+✔ Clinical Operations Support
+✔ Medical & Regulatory Writing
+✔ Ethics & Regulatory Submissions
+
+Clinical Development Snapshot
+
+Clinical Phases
+Phase I • II • III • IV
+Study Designs
+First-in-Human (FIH) • Proof-of-Concept (PoC) • Dose Escalation • Pivotal Trials
+Specialized Studies
+Bioavailability (BA) • Bioequivalence (BE)
+Regulatory Framework
+ICH-GCP E6(R3)* • FDA • EMA • CDSCO
+*Where applicable, studies are planned and conducted in alignment with current regulatory expectations.
+
+Scientific & Regulatory Approach
+Successful clinical development depends on more than study execution. It requires scientifically sound protocols, clearly defined endpoints, robust statistical planning, effective site coordination, and comprehensive regulatory documentation.
+Our multidisciplinary approach integrates clinical operations, medical writing, regulatory strategy, and scientific oversight to maintain consistency from protocol development through final clinical study reporting.
+What We Deliver
+Phase I Clinical Studies
+Support for first-in-human (FIH), single ascending dose (SAD), multiple ascending dose (MAD), food-effect, and early pharmacokinetic studies designed to establish initial safety, tolerability, and human pharmacology.
+Phase II Clinical Studies
+Support for proof-of-concept and dose-ranging studies that evaluate preliminary efficacy, optimize dosing strategies, and refine clinical endpoints for later-stage development.
+Phase III Clinical Studies
+Operational and scientific support for pivotal multicenter clinical trials generating the efficacy and safety evidence required for regulatory marketing applications.
+Phase IV & Real-World Research
+Post-marketing studies designed to monitor long-term safety, evaluate treatment effectiveness in routine clinical practice, and generate real-world evidence supporting lifecycle management.
+Bioavailability & Bioequivalence (BA/BE)
+Scientific and operational support for BA/BE studies, including protocol development, clinical conduct, pharmacokinetic evaluation, bioanalytical coordination, and statistical reporting in accordance with applicable regulatory guidelines.
+Medical & Regulatory Writing
+Preparation of high-quality scientific and regulatory documents, including clinical study protocols, investigator brochures (IBs), informed consent forms (ICFs), clinical study reports (CSRs), CTD Module 2 summaries, and CTD Module 5 clinical documentation.
+
+Standards & Methods
+Clinical research requires rigorous adherence to internationally recognized ethical, scientific, and regulatory standards. BioVeritas supports studies through quality-managed processes, ensuring that clinical data are reliable, reproducible, and suitable for regulatory review.
+Study / Activity
+Guideline / Standard
+Typical Deliverable
+Clinical Trial Conduct
+ICH-GCP E6(R3)*
+GCP-Compliant Clinical Documentation
+Bioavailability & Bioequivalence
+FDA • EMA • CDSCO BA/BE Guidance
+BA/BE Report with PK Analysis
+Clinical Study Report
+ICH E3
+Clinical Study Report (CSR)
+Statistical Analysis
+ICH E9
+Statistical Analysis Plan (SAP) & Clinical Outputs
+Electronic Clinical Data
+CDISC (where applicable)
+SDTM/ADaM-ready datasets
+
+UI/UX Recommendation
+Service Cards
+Display the six service areas (Phase I, II, III, IV, BA/BE, Medical Writing) as interactive cards with icons. On hover (desktop) or tap (mobile), reveal a short list of activities or deliverables.
+Compliance Banner
+Include a slim banner before the Standards section with recognizable compliance badges:
+ICH-GCP 
+FDA 
+EMA 
+CDSCO 
+Ethics Committee Oversight 
+This provides an immediate visual signal of regulatory credibility.
+
+Regulatory & Strategic Consulting
+Navigate Complex Regulatory Pathways with Confidence
+Successful product development depends not only on strong science but also on a clear regulatory strategy. BioVeritas partners with sponsors to plan submission pathways, prepare regulatory documentation, and support interactions with health authorities—helping programs progress efficiently while meeting global regulatory expectations.
+Capability Highlights
+✔ Regulatory Strategy Development
+✔ CTD Dossier Preparation
+✔ CDSCO / DCGI Support
+✔ Ethics Committee (IEC/IRB) Submissions
+✔ Medical & Regulatory Writing
+✔ Audit & Inspection Readiness
+
+Regulatory Snapshot
+
+Submission Types
+CTD • eCTD • Regulatory Dossiers
+Authorities
+CDSCO • DCGI • FDA • EMA
+Documentation
+IB • CSR • CTD Modules • Responses to Queries
+Compliance
+ICH • GCP • GLP • Regulatory Guidelines
+
+Why Regulatory Strategy Matters
+Regulatory success begins long before a dossier is submitted. A well-planned regulatory pathway reduces development delays, minimizes review deficiencies, and ensures that scientific evidence is presented in a format aligned with health authority expectations.
+BioVeritas works alongside sponsors to develop practical regulatory strategies that integrate scientific, clinical, and quality documentation into a coherent submission package.
+
+What We Deliver
+Regulatory Strategy & Gap Assessment
+Assessment of development programs to define appropriate regulatory pathways, identify documentation gaps, and establish submission strategies aligned with project objectives and target markets.
+
+Regulatory Submissions
+Preparation, review, and compilation of regulatory dossiers for CDSCO/DCGI and international submissions, ensuring complete, well-organized, and submission-ready documentation.
+
+CTD & eCTD Documentation
+Authoring and compilation of Common Technical Document (CTD) Modules 2–5, with scientific consistency across quality, nonclinical, and clinical sections.
+
+Ethics Committee (IEC/IRB) Support
+Preparation of ethics submission packages, informed consent documentation, protocol amendments, and responses to committee observations.
+
+Medical & Regulatory Writing
+Preparation of scientifically accurate regulatory documents including Investigator's Brochures (IB), Clinical Study Reports (CSR), clinical protocols, briefing books, regulatory responses, and scientific summaries.
+
+Compliance & Audit Readiness
+Review of study documentation, quality systems, and regulatory records to support inspection readiness and facilitate sponsor and regulatory audits.
+
+Standards & Regulatory Framework
+Activity
+Guideline / Standard
+Deliverable
+CTD Preparation
+ICH M4
+CTD / eCTD Dossier
+Clinical Documentation
+ICH E3 • ICH E6 (GCP)
+CSR • Clinical Documents
+Regulatory Submission
+CDSCO • FDA • EMA Requirements
+Submission Package
+Ethics Documentation
+IEC / IRB Guidelines
+Ethics Submission
+Regulatory Writing
+Global Regulatory Expectations
+Submission-Ready Documents
+
+💡 UI/UX Recommendation
+Instead of six service cards, use a "Regulatory Journey" infographic:
+Regulatory Strategy → Gap Assessment → Documentation → Submission → Agency Queries → Approval Support
+This instantly communicates that BioVeritas supports the sponsor throughout the regulatory process—not just at the submission stage.
+
+New Product Development (NPD)
+Transforming Scientific Concepts into Development-Ready Products
+Successful product development extends beyond identifying an active molecule. It requires formulation strategies, preformulation characterization, analytical evaluation, and scalable manufacturing processes that ensure the product performs consistently from laboratory development to commercial production.
+BioVeritas supports sponsors throughout the New Product Development (NPD) lifecycle by combining formulation science, analytical characterization, and technology transfer to create products that are scientifically robust, manufacturable, and commercially viable.
+
+Capability Highlights
+✔ Formulation Development
+✔ Preformulation Studies
+✔ Prototype Development
+✔ Scale-Up Support
+✔ Technology Transfer
+✔ Comparative Product Evaluation
+
+Development Snapshot
+
+Dosage Forms
+Oral • Parenteral • Topical • Liquid Formulations
+Development Stages
+Preformulation • Prototype • Scale-Up
+Analytical Support
+Stability • Compatibility • Comparative Evaluation
+Applications
+Pharmaceuticals • Nutraceuticals • Medical Products
+
+From Laboratory to Manufacturing
+Product development should anticipate future manufacturing requirements from the outset. Our development approach considers formulation performance, process feasibility, analytical characterization, and manufacturing scalability to facilitate a smooth transition into pilot and commercial production.
+
+What We Deliver
+Formulation Development
+Design and optimization of oral, topical, parenteral, and other dosage forms with a focus on product performance, stability, patient acceptability, and manufacturability.
+
+Preformulation Studies
+Evaluation of physicochemical properties including solubility, stability, pKa, hygroscopicity, polymorphism, and excipient compatibility to establish a strong scientific foundation for formulation development.
+
+Prototype Development
+Development and optimization of prototype formulations for proof-of-concept, formulation refinement, and early product performance assessment.
+
+Scale-Up Support
+Scientific support for process optimization and scale-up activities to facilitate successful transition from laboratory development to pilot and commercial manufacturing.
+
+Comparative Product Analysis
+Head-to-head evaluation of prototype formulations against reference or marketed products to assess critical quality attributes, product performance, and opportunities for differentiation.
+
+Technology Transfer
+Preparation of manufacturing documentation, process knowledge transfer, and technical support to enable efficient transfer of developed products to manufacturing facilities.
+
+Standards & Development Framework
+Activity
+Approach / Guideline
+Typical Deliverable
+Preformulation
+ICH Q8(R2) Principles
+Physicochemical Profile
+Formulation Development
+Quality by Design (QbD)*
+Optimized Formulation
+Comparative Evaluation
+Reference Product Benchmarking
+Comparative Report
+Technology Transfer
+Process Documentation
+Technology Transfer Package
+Stability Support
+ICH Q1 Series
+Stability Summary

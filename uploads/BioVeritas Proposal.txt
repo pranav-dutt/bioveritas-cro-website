@@ -1,0 +1,376 @@
+DETAILED WEBSITE PROPOSAL · WORDPRESS DEVELOPMENT
+BioVeritas
+CRO29-Page Corporate Website · WordPress +
+Elementor Pro
+PREPARED FOR BioVeritas CRO Pvt Ltd (Attn:
+Swati Kaushik)
+PREPARED BY Rabiro Marketing Agency
+SCOPE 29-Page WordPress Website —
+Design, Build & Launch
+DATE ISSUED 30 July 2026
+VALID UNTIL 29 August 2026
+QUOTE REF RBR-BVC-2026-005
+TOTAL Rs. 76,700 INCL. GST · 20–25 WORKING DAYS
+
+-- 1 of 19 --
+
+01EXECUTIVE SUMMARY
+A streamlined, final scope reflecting the latest simplifications
+requested.
+
+-- 2 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 3 · Valid until 29 August 2026
+29 Pages Rs. 76,700 20–25 Days 5 Scopes
+Total Deliverable Total Investment (Incl. GST) Timeline Delivery Phases
+What This Proposal Covers
+This is the final, streamlined scope for the BioVeritas CRO website. Two existing pages absorb content that does not
+need its own URL: About Us folds in Why BioVeritas, What Makes Us Different, Scientific Philosophy, Integrated
+Development Approach, Customised Study Design, Global Partner Network, Quality Commitment, and Translational
+Science as long-form sections; Therapeutic Areas includes the 6-stage Scientific Approach infographic. Translational
+Research remains a standalone service page. Based on the latest feedback, four further simplifications have been
+made: Partner With Us and Collaboration are combined into a single page; Careers and Internships are combined
+into a single static, template-based page rather than a dynamic listing system, since hiring volume does not justify
+one; Scientific Publications is folded into Resources & Downloads as a section rather than its own page; and
+Knowledge Centre is parked for a later phase rather than built now. This brings the site to 29 pages at a total
+investment of Rs. 65,000 + GST = Rs. 76,700, issued on behalf of Rabiro Marketing Agency.
+# SCOPE OF WORK PAGES COST (EXCL. GST)
+1 Core & Foundation Pages (incl. 2 expanded pages) 7 Rs. 17,500
+2 Service Line Pages (13 original + Translational Research) 14 Rs. 29,500
+3 Case Studies, Blog & Resources (incl. Publications) 6 Rs. 8,800
+4 Partner & Collaboration + Careers & Internships (static) 2 Rs. 6,000
+5 SEO, Forms, Utility Pages, Integrations & 1-Month Maintenance — Rs. 3,200
+SUBTOTAL (EXCL. GST) 29 Rs. 65,000
+Utility & legal pages — Privacy Policy, Terms of Use, Cookie Policy, Thank-You page, and 404 error page — are
+bundled inside Scope 5 at no additional per-page cost, along with 1 month of free post-launch maintenance for
+bug fixes and minor updates.
+
+-- 3 of 19 --
+
+02SCOPE 1 — CORE &
+FOUNDATION PAGES
+Seven pages carrying the full weight of BioVeritas’ credibility and
+positioning.
+
+-- 4 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 5 · Valid until 29 August 2026
+SCOPE 1 · CORE & FOUNDATION PAGES | RS. 17,500 + GST
+These seven pages establish the design system, credibility signals, and navigation backbone the rest of the site
+depends on. Two of them — About Us and Therapeutic Areas — carry significantly more content and design work than
+a standard page, which is reflected in their individual pricing below.
+About Us — Expanded (9 Sections)
+Rather than create 8 separate pages, all of the following are built as distinct, well-designed sections within one
+long-form About Us page — each with its own layout treatment rather than a generic text block:
+- Company overview
+- Why BioVeritas
+- What Makes BioVeritas Different
+- Scientific Philosophy
+- Integrated Development Approach
+- Customised Study Design
+- Global Partner Network
+- Quality Commitment
+- Translational Science
+Therapeutic Areas — Expanded (Scientific Approach Infographic)
+A 6-stage horizontal infographic — Discovery, Mechanism, Biomarkers, Animal Models, Clinical Translation,
+Commercialisation — is added to the existing Therapeutic Areas page, using the same interactive-stepper style
+already built for the ADME and Discovery Pipeline service pages.
+Other Pages in This Scope
+- Home — hero, key highlights, services overview, why-BioVeritas strip, CTA banners
+- Leadership & Scientific Team
+- Quality, Compliance & Accreditations — GLP · GCP · OECD · ICH · CDSCO
+- Facilities & Infrastructure — lab capability, CPCSEA registration, instrumentation
+- Contact Us — enquiry form, WhatsApp button, Google Maps embed
+Cost Breakdown
+COMPONENT WHY IT COSTS THIS COST
+Design system Colour palette, typography, icon set, scientific background patterns —
+used across all 29 pages Rs. 2,900
+Home + Contact Full build, responsive, animated stat counters, form + WhatsApp + Maps
+wiring Rs. 4,400
+About Us (expanded, 9
+sections)
+9 distinct section layouts on one page — the single largest content
+page on the site Rs. 5,800
+Quality, Facilities, Team 3 credibility pages with compliance badge tables and lab imagery Rs. 2,900
+
+-- 5 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 6 · Valid until 29 August 2026
+COMPONENT WHY IT COSTS THIS COST
+Therapeutic Areas
+(expanded) Existing domain listing + new 6-stage Scientific Approach infographic Rs. 1,500
+SCOPE 1 TOTAL Rs. 17,500
+
+-- 6 of 19 --
+
+03SCOPE 2 — SERVICE LINE
+PAGES
+Fourteen service pages, each built on the same proven, approved
+template.
+
+-- 7 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 8 · Valid until 29 August 2026
+SCOPE 2 · 14 SERVICE LINE PAGES | RS. 29,500 + GST
+Every service page follows the format already approved: hero, capability tags, overview, "What We Deliver" cards,
+standards/guidelines table, engagement steps, and closing CTA. Content for 8 of the 14 pages is already provided; 6
+pages — the 5 new service lines plus Translational Research — require client-supplied copy before design begins.
+Content Ready — 8 Pages
+SERVICE PAGE KEY UI ELEMENT
+In Vitro & Cell-Based Studies Study highlights + engagement
+steps
+In Vivo Pharmacology & Efficacy Study snapshot + standards table
+Bioanalytical & Biomarker Testing Service cards + standards table
+Pharmacokinetics (PK) & ADME Horizontal ADME infographic
+(5-stage)
+Discovery & NPD Screening Discovery Pipeline horizontal
+stepper
+Clinical Research (Phase I–IV) Service cards + compliance
+banner
+Regulatory & Strategic Consulting "Regulatory Journey" infographic
+New Product Development (NPD) Development snapshot +
+standards table
+Content Pending Client Input — 6 Pages
+SERVICE PAGE KEY UI ELEMENT (PLANNED)
+Toxicology & Safety Pharmacology Standards table + capability
+cards
+Analytical & Testing Services Standards table + capability
+cards
+Data Analytics & Digital Health Capability cards + workflow
+visual
+Medical Devices Standards table + capability
+cards
+Manufacturing, Licensing & Technology Transfer Capability cards + engagement
+steps
+Translational Research
+6-part infographic — Bench to
+Bedside, Reverse Translation,
+PK/PD, Biomarkers, Clinical
+Endpoints, Precision Medicine
+
+-- 8 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 9 · Valid until 29 August 2026
+This proposal covers design and development only. Copywriting for the 6 pending pages is available as an
+add-on at Rs. 2,500/page if BioVeritas would rather Rabiro draft the content, matching the tone of the existing 8
+pages.
+Cost Breakdown
+COMPONENT WHY IT COSTS THIS COST
+8 pages — content ready Design + build using the approved template Rs. 16,700
+5 new service lines Design + build once content is received Rs. 9,300
+Translational Research New page — 6-part infographic, same build complexity as
+ADME/Discovery pages Rs. 3,500
+SCOPE 2 TOTAL Rs. 29,500
+
+-- 9 of 19 --
+
+04SCOPE 3 — CASE STUDIES,
+BLOG & RESOURCES
+Proof of work and ongoing scientific content, kept lean.
+
+-- 10 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 11 · Valid until 29 August 2026
+SCOPE 3 · CASE STUDIES, BLOG & RESOURCES | RS. 8,800 + GST
+Case Studies and Blog give BioVeritas a place to publish sponsor-facing proof of work and ongoing scientific insights.
+Scientific Publications is folded into Resources & Downloads as a dedicated, filterable section rather than its own
+page — it serves the same "read more" intent as white papers and regulatory updates, so a shared page keeps the
+build lean without losing the content. Knowledge Centre (webinars, glossary, how-to guides) is parked for a later
+phase and can be added once the core site is live.
+Pages in This Scope
+- Case Studies / Projects hub — filterable by therapeutic area or service line
+- Case Study detail template — repeatable, editable in Elementor
+- Blog / Scientific Insights hub
+- Blog post template — repeatable
+- Resources & Downloads — white papers, regulatory updates, gated PDF downloads, plus a Scientific Publications
+section (filterable listing of papers and journal citations)
+- Request a Proposal (RFP) form — study type, phase, molecule type, timeline fields
+Cost Breakdown
+COMPONENT WHY IT COSTS THIS COST
+Case study system Hub + repeatable detail template with filters Rs. 3,400
+Blog system Hub + repeatable post template Rs. 2,400
+Resources, Publications &
+RFP form Downloads library + Publications section + proposal form Rs. 3,000
+SCOPE 3 TOTAL Rs. 8,800
+Knowledge Centre (webinars, glossary, how-to guides) is not included in this scope. It can be added as a
+phase-two page once the core site is live — happy to quote it separately at that point.
+
+-- 11 of 19 --
+
+05SCOPE 4 — PARTNER &
+CAREERS
+Two combined pages, simplified to match actual hiring and
+partnership volume.
+
+-- 12 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 13 · Valid until 29 August 2026
+SCOPE 4 · PARTNER & CAREERS | RS. 6,000 + GST
+Based on the latest feedback, this scope has been simplified from four pages down to two. Since BioVeritas will not be
+hiring extensively in the near term, a dynamic careers system is not justified — a single, well-templated static page
+covers openings and internships without the ongoing overhead of a custom post type. Partner With Us and
+Collaboration are combined into one page, since both are fundamentally about how an external party works with
+BioVeritas — commercially or academically — just presented as two clearly separated sections.
+Partner & Collaboration (1 Page)
+One page, two sections: the three commercial engagement models (full-program partner, milestone specialist,
+white-label CRO support) and a separate section for academic/institutional research collaboration (joint studies,
+co-authored publications, university tie-ups). One combined enquiry form with a dropdown to route the enquiry to
+the right team.
+Careers & Internships (1 Static Page)
+One template-based page listing current openings and internship opportunities side by side, with a single apply form
+(resume upload included). Openings are edited directly in Elementor rather than through a dynamic admin panel —
+the right trade-off given low hiring volume, and easy to upgrade to a dynamic system later if hiring picks up.
+Cost Breakdown
+COMPONENT WHY IT COSTS THIS COST
+Partner & Collaboration One page, two sections, one combined enquiry form Rs. 3,000
+Careers & Internships
+(static) One template-based page + apply/resume form, manually edited Rs. 3,000
+SCOPE 4 TOTAL Rs. 6,000
+
+-- 13 of 19 --
+
+06INVESTMENT & PAYMENT
+Full cost breakdown, GST, and payment schedule — nothing
+hidden.
+
+-- 14 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 15 · Valid until 29 August 2026
+Rs. 65,000 Rs. 11,700 Rs. 76,700 20–25 Days
+Subtotal (Excl. GST) GST @ 18% Total (Incl. GST) Timeline
+Complete Cost Breakdown
+# SCOPE OF WORK PAGE
+S COST (EXCL. GST)
+1 Core & Foundation Pages (incl. 2 expanded pages) 7 Rs. 17,500
+2 Service Line Pages (13 original + Translational Research) 14 Rs. 29,500
+3 Case Studies, Blog & Resources (incl. Publications) 6 Rs. 8,800
+4 Partner & Collaboration + Careers & Internships (static) 2 Rs. 6,000
+5 SEO, Forms, Utility Pages, Integrations & Maintenance — Rs. 3,200
+Subtotal Rs. 65,000
+GST (18%) Rs. 11,700
+TOTAL PAYABLE Rs. 76,700
+Every rupee in the Rs. 65,000 subtotal is accounted for in the scope-by-scope cost breakdowns in Sections 2–5 —
+this is not a flat per-page rate, but a reflection of the actual design and build effort each page requires, from a
+single-form Contact page to a 9-section About Us.
+What’s Included
+- WordPress installation, theme setup, Elementor Pro configuration, SSL and security hardening
+- Desktop and mobile-responsive design for all 29 pages, tested across screen sizes
+- Content integration for all pages where copy is already provided (up to 40 images/graphics)
+- Contact, RFP, partner & collaboration, and careers/internship application forms — with email notifications
+- WhatsApp chat button and Google Maps integration
+- On-page SEO (meta titles, descriptions, heading structure), XML sitemap, robots.txt
+- Google Analytics 4 integration and page-speed optimisation
+- 1 month of free post-launch maintenance — bug fixing, minor content edits, and general upkeep — plus a
+training call on managing the WordPress admin panel
+Not Included
+- Domain name and hosting subscription (client to purchase; Rabiro assists with setup at no charge)
+- Copywriting for the 6 pending service pages — available as an add-on at Rs. 2,500/page
+- Logo design or brand identity creation
+- Stock photography purchase beyond images already supplied
+
+-- 15 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 16 · Valid until 29 August 2026
+- Knowledge Centre page (parked for a later phase, quoted separately if required)
+- Ongoing monthly maintenance beyond the 1-month free window (available separately as a retainer)
+Payment Schedule
+MILESTONE AMOUNT DUE WHEN
+Advance — Project Kickoff (50%) Rs. 38,350 Before work begins
+Milestone — After Approval (30%) Rs. 23,010 On design sign-off,
+mid-project
+Final — After Launch (20%) Rs. 15,340 Before final handover
+Rs. 15,000 has already been received on 06 June 2026 (Invoice INVPRB-000001) and is adjusted against the 50%
+advance below. Balance advance due before work begins: Rs. 23,350.
+MILESTONE TOTAL DUE ALREADY PAID BALANCE DUE
+Advance (50%) — Kickoff Rs. 38,350 Rs. 15,000
+(INVPRB-000001) Rs. 23,350
+After Approval (30%) Rs. 23,010 — Rs. 23,010
+After Launch (20%) Rs. 15,340 — Rs. 15,340
+TOTAL Rs. 76,700 Rs. 15,000 Rs. 61,700
+Delivery Timeline
+WEEK SCOPE IN PROGRESS DELIVERABLE
+Week 1 Scope 1 — Core & Foundation Design system + Home, About (9
+sections), Contact live on staging
+Week
+2 Scope 2 — Service Line Pages 14 service pages built (pending pages as
+content arrives)
+Week
+3 Scope 3 & 4 — Content, Careers, Partner Case studies, blog, Resources,
+Partner/Collaboration, Careers built
+Week
+4 QA, SEO, Training & Launch Full site tested, SEO configured, training
+call, go-live
+Timeline assumes content for the 6 pending service pages is received by end of Week 1. Delays in content delivery
+will extend the schedule proportionately. 1 month of free maintenance begins from the go-live date.
+
+-- 16 of 19 --
+
+07TERMS & ACCEPTANCE
+Clear terms. One message to get started.
+
+-- 17 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 18 · Valid until 29 August 2026
+Terms and Conditions
+Pricing and GST
+All figures above exclude GST unless marked otherwise. GST is charged at 18% and shown separately on every invoice. Total
+payable including GST is Rs. 76,700.
+Scope Boundary
+This proposal covers the 29 pages listed above. Any page or feature not specified is out of scope and will be quoted separately at
+Rs. 2,500 per page.
+Content and Assets
+Text content, images, logo, and brand assets for the 8 ready service pages and all core pages must be provided within 3 business
+days of kickoff. Content for the 6 pending service pages must be provided within the first week to hold the Week 2 timeline.
+Revisions
+This proposal includes two rounds of design revisions. Additional revisions beyond the included rounds are charged at Rs. 800/hour.
+Domain and Hosting
+Domain name and hosting are not included. Client is responsible for purchasing and maintaining hosting; Rabiro will assist with
+setup at no additional charge.
+Intellectual Property
+Upon receipt of final payment, full ownership of the website (code, design, and content) transfers to BioVeritas CRO Pvt Ltd.
+Payment Terms
+Payment is split 50% advance (kickoff), 30% after design approval, and 20% after launch. Rs. 15,000 was received on 06 June 2026
+against Invoice INVPRB-000001 and is adjusted against the advance; balance advance due before work begins is Rs. 23,350.
+Post-Delivery Support
+1 month of free post-launch maintenance is included — covering bug fixes, minor content edits, and general upkeep. New features
+or scope additions after this window, or beyond routine maintenance, are billed at Rs. 800/hour or quoted separately.
+Cancellation
+Advance payments received, including the amount already paid against Invoice INVPRB-000001, are non-refundable if the project
+is cancelled after work has commenced.
+Validity
+This proposal is valid for 30 days from the date of issue (30 July 2026) and expires on 29 August 2026.
+How to Accept
+Reply via WhatsApp or email to confirm acceptance. No physical signature required. Payment details will be shared
+upon confirmation.
+"We accept this proposal dated 30 July 2026, Ref: RBR-BVC-2026-005, prepared by Rabiro
+Marketing Agency, covering all 5 scopes and 29 pages at the agreed fee of Rs. 76,700 inclusive
+of GST."
+
+-- 18 of 19 --
+
+BIOVERITAS CRO · DETAILED WEBSITE PROPOSAL · RABIRO MARKETING AGENCY CONFIDENTIAL
+Rabiro Marketing Agency · connect@rabiro.com · +91 99344 38066 Page 19 · Valid until 29 August 2026
+PREPARED BY
+Pranav Dutt Tripathi
+Rabiro Marketing Agency
+connect@rabiro.com · +91 99344 38066
+DATE ISSUED
+30 July 2026
+QUOTE REF
+RBR-BVC-2026-005
+Valid until 29 August 2026
+Thank you for the opportunity — looking forward to building BioVeritas CRO a website that matches
+the science.
+
+-- 19 of 19 --
+
