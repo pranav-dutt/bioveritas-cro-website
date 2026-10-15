@@ -4,6 +4,24 @@ path: (repo root — whole site)
 
 ## Last sync
 
+date: 2026-10-11T05:05:00Z
+
+### Updated in this project
+
+- v2 "Journal" redesign: new design system (Newsreader + Hanken Grotesk, hairline structure, one teal accent) in styles.css + css/pages.css; v1 kept in v1/.
+- Home rebuilt per "Website Design" revision points: services index with hover image previews, standards line, domains, who-we-are, figures, five stages, insights.
+- Sitewide: eyebrow labels removed, "Non-Clinical" → "Preclinical Research", ISO 9001 removed from home/footer, office hours 9:30–6:00.
+
+## Sync history
+
+- 2026-10-11T00:00:00Z — Rebuilt IA per client audit (Doc 2): nav HOME | SERVICES | HOW WE WORK | INDUSTRIES | INSIGHTS | ABOUT | CONTACT; services grouped into 6 areas, same on mobile.
+- New pages: preclinical.html, product-development.html, how-we-work.html, industries.html; facilities reframed as office + partner facilities.
+- Scientific/regulatory wording corrections (Doc 1) across service, about, quality and contact pages; breadcrumbs follow menu hierarchy.
+
+## Previous sync
+
+
+
 date: 2026-09-04T11:58:00Z
 
 ### Updated in this project
@@ -20,6 +38,10 @@ date: 2026-09-04T11:58:00Z
 | Home | index.html, styles.css, chrome.js, hero.js, flow.js |
 | About (9 sections) | about.html |
 | Services overview | services.html |
+| Preclinical landing | preclinical.html |
+| Product development landing | product-development.html |
+| How we work / partner network | how-we-work.html |
+| Industries | industries.html |
 | Therapeutic areas & scientific approach | therapeutic-areas.html |
 | Quality, compliance & accreditations | quality.html |
 | Facilities & infrastructure | facilities.html |
@@ -47,7 +69,7 @@ date: 2026-09-04T11:58:00Z
 | Contact | contact.html |
 | Legal | privacy.html, terms.html, cookie-policy.html |
 | Utility | thank-you.html, 404.html, sitemap.html |
-| Shared chrome | chrome.js, styles.css |
+| Shared chrome | chrome.js, styles.css, css/pages.css |
 | Interactions (flows, counters, forms) | flow.js |
 | Hero / about canvas backgrounds | hero.js |
 | Analytics | analytics.js |
